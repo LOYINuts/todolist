@@ -1,4 +1,4 @@
-module github.com/LOYINuts/todolist
+module mytodolist
 
 go 1.22.3
 
